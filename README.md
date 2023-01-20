@@ -4,11 +4,7 @@
 - 🌱 Atualmente estudando React.js
 - 👨‍💻 Análise e Desenvolvimento de Sistemas - UNINTER
 
-<div>
-  <a href="https://github.com/ricardoxsobral">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardoxsobral&show_icons=true&theme=radical" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoxsobral&layout=compact&show-icons=true&theme=radical" height="180em"> 
-</div>
+
 <br>
 
 
